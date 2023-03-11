@@ -2,6 +2,10 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift e" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
