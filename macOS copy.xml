@@ -5,20 +5,11 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta j" />
-  </action>
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
 </keymap>
