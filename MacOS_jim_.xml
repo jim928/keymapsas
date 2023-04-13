@@ -1,4 +1,4 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="MacOS(jim)" parent="Mac OS X 10.5+">
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
